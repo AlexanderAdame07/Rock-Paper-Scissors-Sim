@@ -1,0 +1,18 @@
+body {
+text-align: center;
+line-height: 2.5em;
+}
+
+.container {
+  display: flex;
+  justify-content: center;
+}
+
+
+.selections {
+  height: 400px;
+  width: auto;
+  object-fit: contain;
+  display: flex;
+  justify-content: center;
+}
