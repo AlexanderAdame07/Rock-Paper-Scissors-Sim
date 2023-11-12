@@ -2,7 +2,7 @@
 (Are you smarter enough to beat a computer?)
 
 ## Hi and welcome back
-I recently finished my first Rock Paper Scissors app, and am very exciited to share. The game can be played at https://alexanderadame07.github.io/RPSim/
+I recently finished my first Rock Paper Scissors app, and am very exciited to share. The game can be played at [https://alexanderadame07.github.io/RPSim/](https://alexanderadame07.github.io/Rock-Paper-Scissors-Sim/)
 
 <img width="1440" alt="Rock ya Scissors with Paper!" src="https://user-images.githubusercontent.com/110954253/187625548-0126ead3-be35-4cf5-bbdf-d6e11643e02f.png">
 
